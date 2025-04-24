@@ -8,6 +8,8 @@ ${\textsf{\color{#bb4c5f}-ˋˏ✄┈┈┈𖥸┈┈┈┈┈┈┈┈┈.ೃ࿔
 <p align="center"> 
 	${\textsf{\color{#164c46}check strawpage for info}}$ 
  <a href="https://duckseatbread.straw.page"> :3
+<p align="center"> 
+	${\textsf{\color{#164c46}best seen on PC}}$ 
 	 
 <p align= "center">
 ${\textsf{\color{#bb4c5f}-ˋˏ✄┈┈┈┈┈┈┈✧┈┈┈┈┈┈┈𖥸┈┈┈┈┈⊱┈┈┈┈┈┈┈.ೃ࿔┈┈┈┈┈┈┈┈𖥸┈┈┈┈┈┈┈┈ˎˊ˗}}$
