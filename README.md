@@ -29,6 +29,6 @@ ${\textsf{\color{#bb4c5f}-ˋˏ✄┈┈┈┈┈┈┈✧┈┈┈┈┈┈┈�
 	<br>
 	${\textsf{\color{#164c46}idk how to code..}}$ 
  <br><img height=60 src="https://pbs.twimg.com/media/Gon7Fw5WcAAlczp?format=jpg&name=medium">
-	<br> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t4uzxnlysh5sywisrmow6kugda&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=1e691c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)] 
+	<br> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t4uzxnlysh5sywisrmow6kugda&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=1e691c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)]
 
  
