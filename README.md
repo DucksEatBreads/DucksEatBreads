@@ -24,11 +24,8 @@ ${\textsf{\color{#bb4c5f}-ˋˏ✄┈┈┈┈┈┈┈✧┈┈┈┈┈┈┈�
 	 <img align="right" height=300 src="https://media.discordapp.net/attachments/1063714202251964506/1364814599102398594/image_2025-04-23_210501136-removebg-preview.png?ex=680b0a25&is=6809b8a5&hm=47ee2e5f4e00330bc7b3a9bf37517c96f41b69f7ed4999da1b8a0c612fa94dad&=&format=webp&quality=lossless&width=619&height=1307">
 	
 <p align="center">
-	<br>
-	<br>
-	<br>
-	${\textsf{\color{#164c46}idk how to code..}}$ 
+	${\textsf{\color{#bb4c5f}☽¸╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮☾}}$ 
+	<br> ${\textsf{\color{#164c46}idk how to code..}}$ 
+	<br> ${\textsf{\color{#bb4c5f}╰── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╯}}$ 
  <br><img height=60 src="https://pbs.twimg.com/media/Gon7Fw5WcAAlczp?format=jpg&name=medium">
-	<br> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t4uzxnlysh5sywisrmow6kugda&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=1e691c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)]
-
- 
+	<br> 
