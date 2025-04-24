@@ -29,3 +29,7 @@ ${\textsf{\color{#bb4c5f}-ˋˏ✄┈┈┈┈┈┈┈✧┈┈┈┈┈┈┈�
 	<br> ${\textsf{\color{#bb4c5f}╰── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╯}}$ 
  <br><img height=60 src="https://pbs.twimg.com/media/Gon7Fw5WcAAlczp?format=jpg&name=medium">
 	<br> 
+<p align="center">
+	${\textsf{\color{#bb4c5f}-ˋˏ✄┈┈┈𖥸┈┈┈┈┈┈┈┈┈.ೃ࿔┈┈┈┈┈┈⊱┈┈┈┈┈┈┈𖥸┈┈┈┈┈┈┈┈┈✧┈┈┈┈┈┈┈┈ˎˊ˗}}$
+	<img height=130 src="https://64.media.tumblr.com/7a1ca794a12ba0f0bcb95ca92e718b9b/a14d88b055b5c762-37/s1280x1920/474dec0f6adc8136bab28ca09cad4fe0ec847e8f.pnj">
+	
