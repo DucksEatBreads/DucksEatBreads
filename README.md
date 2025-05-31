@@ -17,7 +17,7 @@
 	<br>
 <img height=378 src= "https://64.media.tumblr.com/10f3166705c73d42ad153a927ace1838/7376bb3d7a8fb83b-2c/s1280x1920/fa5d9541b81ce10fd42114e4c3c3110bf1d774cf.pnj">
 
- <p align= "left">
+ <p align= "center">
 	 -ˋˏ. ⊹ . ݁˖. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁ˏ. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁ˎˊ˗
 <br> <img height=100 src= "https://64.media.tumblr.com/e980747ceb4a6685e51414e817f55645/d1b13d10a3b57c68-12/s400x600/e3d43d9e77997ded36dcc3c4ca368d50888a8b90.gifv"> 
 	 <img height=140 
