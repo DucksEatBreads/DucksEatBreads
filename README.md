@@ -34,3 +34,5 @@
 	-ˋˏ✄┈┈𖥸┈┈┈┈┈.ೃ࿔┈┈┈┈┈┈⊱┈┈┈┈┈┈┈𖥸┈┈┈┈┈┈┈┈┈✧┈┈┈┈┈┈ˎˊ˗
 	<img height=130 src="https://64.media.tumblr.com/7a1ca794a12ba0f0bcb95ca92e718b9b/a14d88b055b5c762-37/s1280x1920/474dec0f6adc8136bab28ca09cad4fe0ec847e8f.pnj">
 	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DucksEatBreads&label=Riddles%20Solved&color=green&style=round-square" alt="riddles solved"/>
