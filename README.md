@@ -51,7 +51,7 @@
     <br><u> $\color{#466472}{\textsf{wippp i might put more}}$
 
  <br> <img height=50 src= https://64.media.tumblr.com/3ddef1f70957bf245c4679a4cf7dcf4c/51b3fdfd5da7702c-fc/s100x200/4055e48c9a5e0cd82298566b9417f62ccf16308d.pnj>
-<img height=50 src= https://64.media.tumblr.com/14a9ef08732f33e4f2b0cd23ebd63247/714de163cdcdf9ef-9f/s100x200/800e015ede8e75e8e82383e4039ece2b2d949429.pnj>
+<img height=50 src= https://64.media.tumblr.com/3e38fc1b49c685e305285161a1e3af16/784463045d46bb7e-c8/s100x200/dcc97a8e7fdfaed7c92959312f384e4561d87a53.gifv>
 <img height=50 src=https://64.media.tumblr.com/81f13d6e48c4f1d21dbbed539c6579c8/2eaf92485d9e8f59-5c/s250x400/e9c4deffbdb9efb6e3b36a6c2a91b29d79722248.pnj >
 <img height=50 src= https://64.media.tumblr.com/9a6f5de14a4204d50907fe548b943a0c/09569947d760aa15-d0/s100x200/8dc4b0b9ad97888bd9a68a4199f9bae448cda1e2.pnj>
 <img height=50 src= https://64.media.tumblr.com/e180a224aeaff8d524c9e0f2aa8c7a03/b18aff3ce9323114-90/s100x200/1106e9a5785d8639b3f15a9cfd0659d38c5f1457.gifv>
@@ -72,7 +72,7 @@
 <img height=50 src= https://64.media.tumblr.com/543d2a3db81c4c496a0249f0a36ecd50/2b6e82c8ea22b922-8e/s100x200/c4170a59cdacb47c4d8b5fe981f4a95648503c90.pnj>
 <img height=50 src= https://64.media.tumblr.com/b02e3012bef581bd0f538c5de7f258ab/562bc653002dd72e-3e/s250x400/8f33db0d494ebb2e243cb76b6752b9839742fcc7.gifv>
 <img height=50 src= https://64.media.tumblr.com/3b34548e10ba7a9ab1e955df30eeaae7/473928ea48888009-c9/s100x200/ec3665eb91f0a12bd0f7046744701e18d70418b4.gifv>
-<img height=50 src= https://64.media.tumblr.com/2d010a96fcb899e8e38fae4a63f44e6d/714de163cdcdf9ef-d0/s100x200/ed2fda03a47c42a072bb8933c5040e69cdefc1ce.gifv>
+<img height=50 src= https://64.media.tumblr.com/e183ea01050daa1dfdbd91593f45637e/14f750cc93e5c7b9-b4/s100x200/685f04a33af501ddd0961f4c6e687c9143c57f67.pnj>
 <img height=50 src= https://64.media.tumblr.com/7291a0c205f45c1385f16e2ccaf0abe0/0a844093c4702aee-89/s100x200/ebc92de0262992b0d712c1984b21cb9dbd46d441.pnj>
 <img height=50 src= https://64.media.tumblr.com/bf488cdabce7a40201f690c5f2228f8a/7633aedf57f42700-e1/s100x200/ed08c204ea4aec2471702023a7aa10d639468519.gifv>
 <img height=50 src= https://64.media.tumblr.com/9b2863e64bd22a3c07e36a96e1129565/0a314c1722fc4072-b1/s100x200/41d0e2cf841c2d052c9fa132b2757dca95c42a83.gifv>
