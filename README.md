@@ -21,9 +21,30 @@
 	
    <p align="right">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=466472&width=200&lines=MY+FAVVVS+RNNN" alt="Typing SVG">
-	   
+
+
+
+<table align="center">
+  <tr>
+    <th align="center" ><img width=300 src="https://blob.gifcities.org/gifcities/FDLRFVSVONKCFMFEXPAH5YSS7A6YHV3V.gif"></th>
+  </tr>
+  <tr>
+    <th align="center">
+	 <img height=100 src= https://64.media.tumblr.com/a074f50b02e626c943b76be307e1bce0/47207af88225899d-e7/s75x75_c1/c73275085a612e0d82082ea4352a827c3d910944.gifv>
+	<u> $\color{#4FA3A8}{\textsf{hey peoples +otherthings, add me artfight!!}}$
+ <img height=100 src= https://64.media.tumblr.com/03b7187820c277e4ba1ea5ce2aab6217/47207af88225899d-2b/s75x75_c1/037733cb9c3aba27b46e4f18c4d0da0af0b353fd.gifv>
+
+<br><u> <a href="https://artfight.net/~DucksEatBreads"><img src="https://img.shields.io/badge/click4ARTFIGHT!!-blue?style=social&logo=imagetoolbox"/>
+
+<img width=300 src= https://64.media.tumblr.com/e16901556894f4b858dc41b2f4cf9573/07637d3b1fa89e26-40/s1280x1920/0c4920449561586fda9ef480934cd605d78218ee.pnj>
+
+</tr>
+</table>
+
+<br>
+<p></p>
 <p align="center">   
-  <img src="https://komarev.com/ghpvc/?username=DucksEatBreads&label=Riddles%20Solved&color=blue&style=square" alt="riddles solved"/>
+  <img src="https://komarev.com/ghpvc/?username=DucksEatBreads&label=Riddles%20Solved&color=026e5c&style=square" title="riddles solved"/>
      <p>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31t4uzxnlysh5sywisrmow6kugda&unique={true|1|on|yes}&count=3&width=300) 
