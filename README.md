@@ -47,7 +47,7 @@
   <img src="https://komarev.com/ghpvc/?username=DucksEatBreads&label=Riddles%20Solved&color=026e5c&style=square" title="riddles solved"/>
      <p>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31t4uzxnlysh5sywisrmow6kugda&unique={true|1|on|yes}&count=3&width=300) 
+![Spotify recently played](![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t4uzxnlysh5sywisrmow6kugda&count={3}&width=300) 
 <img height=220 src=https://64.media.tumblr.com/ae9d8f9d2d7dc5142d5c681d1401fa5b/cfdfc63032f51443-0e/s500x750/20a5b7bebeccd548b2cd746f7cf62e5824311e3d.pnj>
 
 	
