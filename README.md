@@ -50,6 +50,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t4uzxnlysh5sywisrmow6kugda&unique={true|1|on|yes})
 <img height=220 src=https://64.media.tumblr.com/ae9d8f9d2d7dc5142d5c681d1401fa5b/cfdfc63032f51443-0e/s500x750/20a5b7bebeccd548b2cd746f7cf62e5824311e3d.pnj>
 
+<p align="right">   
 	
 <br>
 <p align="center">
@@ -59,7 +60,8 @@
 	<br><u> $\color{#466472}{\textsf{ ☽¸╰─── ⋅ ⋅ ─── ✩ ─── ⋅ ⋅ ───╯☾}}$
  <br><img height=60 src="https://pbs.twimg.com/media/Gon7Fw5WcAAlczp?format=jpg&name=medium">
 
-
+<p align="center">  <a href="[https://batcave.biz/33412-absolute-martian-manhunter-2025.html]"> <br><img height=250 src="https://i.postimg.cc/3Jf78Sg4/Cn-P-22072026-204833.png">
+    <br><u> $\color{#00ff2f}{\textsf{read absolute martian manhunter, It's so peak}}$
     
 <div align="right">
 
@@ -67,7 +69,7 @@
 </details>
 
 <details>
-    <summary>  $\color{#84D7A1}{\textsf{blinky and random stufff}}$</summary>
+    <summary>  $\color{#84D7A1}{\textsf{click 4 blinky and random stufff}}$</summary>
 	<img height=200 src= https://64.media.tumblr.com/e84e05e278e489db88d7900da0d31c1f/ed0e5f2d4aeeed53-00/s400x600/1ad8345b447a8de89d0e91d1965cbe8bfe5cc59e.gifv>
     <br><u> $\color{#466472}{\textsf{wippp i might put more}}$
 
