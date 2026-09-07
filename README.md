@@ -65,6 +65,7 @@
 		<br>
 		  <u> $\color{#944b59}{\textsf{@pt-hall-of-media + @ponychievements‘s John Jones}}$
 		  <br> <u> $\color{#944b59}{\textsf{@ponytowncosplayers's John Constantine}}$
+			<br> <u> $\color{#944b59}{\textsf{@kaotown's John Constantine's biggest fan ᕙ( •̀ ᗜ •́ )ᕗ}}$
 			  <br> <u> $\color{#944b59}{\textsf{i don't play about them}}$
     
 <div align="right">
