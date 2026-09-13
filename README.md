@@ -64,7 +64,7 @@
     <br><u> $\color{#00ff2f}{\textsf{read absolute martian manhunter, It's so peak}}$
 		<br>
 		  <u> $\color{#944b59}{\textsf{@pt-hall-of-media + @ponychievements + @Ponytowns-rewards‘s John Jones}}$
-		  <br> <u> $\color{#944b59}{\textsf{@ponytowncosplayers's John Constantine}}$
+		  <br> <u> $\color{#944b59}{\textsf{@ponytowncosplayers + @paw-town's John Constantine}}$
 			<br> <u> $\color{#944b59}{\textsf{@kaotown's John Constantine's biggest fan ᕙ( •̀ ᗜ •́ )ᕗ}}$
 			  <br> <u> $\color{#944b59}{\textsf{i don't play about them}}$
     
