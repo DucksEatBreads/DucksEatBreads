@@ -63,11 +63,21 @@
 <p align="center">  <a href="[https://batcave.biz/33412-absolute-martian-manhunter-2025.html]"> <br><img height=250 src="https://i.postimg.cc/3Jf78Sg4/Cn-P-22072026-204833.png">
     <br><u> $\color{#00ff2f}{\textsf{read absolute martian manhunter, It's so peak}}$
 		<br>
+
+		
+</details>
+
+<div align="center">
+<details>
+    <summary>  $\color{#944b59}{\textsf{click 4 ponytown titles}}$</summary>
 		  <u> $\color{#944b59}{\textsf{@pt-hall-of-media + @ponychievements + @Ponytowns-rewards‘s John Jones}}$
 		  <br> <u> $\color{#944b59}{\textsf{@ponytowncosplayers + @paw-town's John Constantine}}$
 			<br> <u> $\color{#944b59}{\textsf{@kaotown's John Constantine's biggest fan ᕙ( •̀ ᗜ •́ )ᕗ}}$
 			  <br> <u> $\color{#944b59}{\textsf{i don't play about them}}$
-    
+				  <br> <u> $\color{#944b59}{\textsf{@music-town's Soup is Good Food by Dead Kennedys and It's Begnning to Look A Lot like Christmas by Bing Crisby lmao}}$
+</details>
+
+
 <div align="right">
 
 
