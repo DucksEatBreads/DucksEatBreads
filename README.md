@@ -71,7 +71,7 @@
 <details>
     <summary>  $\color{#944b59}{\textsf{click 4 ponytown titles}}$</summary>
 		  <u> $\color{#944b59}{\textsf{@pt-hall-of-media + @ponychievements + @Ponytowns-rewards‘s John Jones}}$
-		  <br> <u> $\color{#944b59}{\textsf{@ponytowncosplayers + @paw-town's John Constantine}}$
+		  <br> <u> $\color{#944b59}{\textsf{@ponytowncosplayers + @paw-town + @choco-town's John Constantine}}$
 			<br> <u> $\color{#944b59}{\textsf{@kaotown's John Constantine's biggest fan ᕙ( •̀ ᗜ •́ )ᕗ}}$
 			  <br> <u> $\color{#944b59}{\textsf{i don't play about them}}$
 				  <br> <u> $\color{#944b59}{\textsf{@music-town's Soup is Good Food by Dead Kennedys and It's Begnning to Look A Lot like Christmas by Bing Crisby lmao}}$
